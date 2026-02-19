@@ -1,3 +1,5 @@
+<img width="1819" height="700" alt="image" src="https://github.com/user-attachments/assets/999fe3ae-ac84-4975-873a-2d0ee1dafce1" />
+
 <img width="1746" height="703" alt="image" src="https://github.com/user-attachments/assets/428a46e2-0699-4688-a323-10714c44ed82" />
 # 🛡️ SafeHer – Women Safety Platform
 
