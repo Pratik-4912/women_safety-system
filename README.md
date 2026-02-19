@@ -1,3 +1,4 @@
+<img width="1746" height="703" alt="image" src="https://github.com/user-attachments/assets/428a46e2-0699-4688-a323-10714c44ed82" />
 # 🛡️ SafeHer – Women Safety Platform
 
 A complete, production-level civic-tech web application for women's safety.
@@ -106,3 +107,4 @@ women-safety-platform/
 • Developed AI safety chatbot with self-defense guidance, legal rights info, and emergency helplines  
 • Designed community incident reporting with interactive safety map using Leaflet.js + OpenStreetMap  
 • Implemented guardian tracking mode with shareable live location links
+![Uploading image.png…]()
